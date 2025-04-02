@@ -60,10 +60,6 @@ npm run dev --prefix front-end
 
 O projeto foi hospedado no Render, permitindo acesso online. 🔗 Acesse o projeto online aqui https://projeto-spotify-f7ym.onrender.com/
 
-📸 Imagens do Projeto
-
-(Adicione capturas de tela aqui)
-
 📜 Estrutura do Repositório
 
 projeto-spotify/
